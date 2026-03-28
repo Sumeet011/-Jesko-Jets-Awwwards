@@ -58,7 +58,7 @@ If you are the original creator and would like this project **removed or credite
 - Ownership: **[The First The Last](https://www.awwwards.com/thefirstthelast/)**
 - Featured On: **Awwwards**
 - Original Website: [Jesko Jets](https://jeskojets.com/)
-- Clone Developed By: **[Reza Hussain]**
+- Clone Developed By: **[Sumeet Sharma]**
 
 ---
 
@@ -66,9 +66,9 @@ If you are the original creator and would like this project **removed or credite
 
 If you'd like to collaborate or discuss this project:
 
-- [Email](alirezaa08@gmail.com)
-- [Portfolio](https://reza-hussain.netlify.app/)
-- [LinkedIn](https://www.linkedin.com/in/arezahussain)
+- [Email](workwithsumeet.dev8@gmail.com)
+- [Portfolio](https://uiuxsumeet.framer.website/)
+- [LinkedIn](https://www.linkedin.com/in/sumeetsharma01/)
 
 ---
 
