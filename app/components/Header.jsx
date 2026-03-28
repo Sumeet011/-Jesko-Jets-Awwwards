@@ -11,8 +11,8 @@ export default function Header() {
       </nav>
 
       <ul className="flex justify-center items-center gap-5">
-        <li>+917878665544</li>
-        <li>random@noidea.com</li>
+        <li>+918264988895</li>
+        <li>workwithsumeet.dev@gmail.com</li>
       </ul>
     </header>
   );
